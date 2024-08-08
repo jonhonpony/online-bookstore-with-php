@@ -104,3 +104,11 @@ Notlar
 
 PHP dosyalarındaki veritabanı bağlantı detaylarının yerel sunucu yapılandırmanızla uyumlu olduğundan emin olun.
 Uygulama, alışveriş sepetini yönetmek için oturumları kullandığından, PHP yapılandırmanızda oturum desteğinin etkin olduğundan emin olun.
+
+
+
+https://github.com/user-attachments/assets/582d1f64-ea01-4265-9771-bfb035822a68
+
+
+
+
