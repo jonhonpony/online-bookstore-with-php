@@ -1,0 +1,47 @@
+﻿/* Genel Stil */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+
+header {
+    background: linear-gradient(90deg, #0066cc, #00ccff);
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+#searchBox {
+    border: 2px solid #007bff;
+    border-radius: 30px;
+    padding: 10px 20px;
+    font-size: 18px;
+}
+
+#results ul {
+    list-style: none;
+    padding: 0;
+}
+
+#results li {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+    #results li:hover {
+        background-color: #f1f1f1;
+    }
+
+footer {
+    background-color: #333;
+}
+
+    footer p {
+        margin: 0;
+        font-size: 14px;
+    }
